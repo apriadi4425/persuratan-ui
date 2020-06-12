@@ -1,0 +1,3 @@
+.text_password {
+  -webkit-text-security: disc;
+}
